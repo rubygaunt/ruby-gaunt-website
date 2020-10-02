@@ -76,3 +76,13 @@ a:hover, a:active {
   
 }
 
+.footer {
+    color: black;
+    font-size: 10px;
+    font-family: 'Roboto Mono', monospace;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+}
